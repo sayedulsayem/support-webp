@@ -21,5 +21,17 @@
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  */
 
+// run plugin initialization file
+require 'plugin.php';
 
+/**
+ * update permalink after register cpt
+ */
+register_activation_hook( __FILE__, [ SupportWebp\Plugin::instance(), 'flush_rewrites'] );
 
+/**
+ * load plugin after initialize wordpress core
+ */
+add_action( 'plugins_loaded', function(){
+    SupportWebp\Plugin::instance()->init();
+});
