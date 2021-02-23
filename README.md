@@ -13,5 +13,7 @@ Step 3: When you activate Support Webp you will be able to upload webp format im
 ## Links
 
 Wordpress.org plugin link [Support Webp](https://wordpress.org/plugins/support-webp/).
+
 Wordpress.org author link [Sayedul Sayem](https://wordpress.org/sayedulsayem/).
+
 Author weblink [Sayedul Sayem](https://sayedulsayem.com).
