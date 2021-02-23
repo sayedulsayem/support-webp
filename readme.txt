@@ -29,7 +29,7 @@ Step 3: When you activate Support Webp you will be able to upload webp format im
 For a more detailed explanation check out the following documentation
 
 == Frequently Asked Questions ==
-= Is this plugin will work automatically after activate =
+= Will this plugin automatically work after activation? =
 Yes. You don't need to do anything else without activate the plugin.
 
 
