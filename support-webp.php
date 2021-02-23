@@ -9,7 +9,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Support Webp
- * Plugin URI:        https://sayedulsayem.com/
+ * Plugin URI:        https://wordpress.org/plugins/support-webp/
  * Description:       This plugin will allow you to upload webp format image on wordpress media
  * Version:           1.0.0
  * Requires at least: 5.2
