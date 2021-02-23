@@ -13,6 +13,7 @@ This plugin will help you to upload webp format image in wordpress media library
 == Description ==
 This plugin will help you to upload webp format image in wordpress media library
 
+See plugin git repo [Support Webp](https://github.com/sayedulsayem/support-webp)
 
 Features:
 
