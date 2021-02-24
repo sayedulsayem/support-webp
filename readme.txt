@@ -42,9 +42,9 @@ Yes. You don't need to do anything else without activate the plugin.
 
 == Changelog ==
 
-= 1.0.1 = 24-02-2021
+= 1.0.1 (24-02-2021) =
 * Add: Legacy support for lower version of php.
 * Tweak: Optimize code quality for better performace.
 
-= 1.0.0 = 23-02-2021
+= 1.0.0 (23-02-2021) =
 * Initial release.
