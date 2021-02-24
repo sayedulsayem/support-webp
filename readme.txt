@@ -1,10 +1,14 @@
-=== Support Webp ===
+=== Support WebP ===
+Plugin Name: Support WebP
+Version: 1.0.1
+Author: sayedulsayem
+Author URI: https://sayedulsayem.com/
 Contributors: sayedulsayem
-Tags: support webp, upload webp, webp, safe webp, webp upload, webp support
-Requires at least: 4.0
+Tags: Webp, Support Webp, Upload Webp, Safe Webp, Media
+Requires at least: 4.7
 Tested up to: 5.6.2
 Requires PHP: 5.6
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +17,7 @@ This plugin will help you to upload webp format image in wordpress media library
 == Description ==
 This plugin will help you to upload webp format image in wordpress media library
 
-See plugin git repo [Support Webp](https://github.com/sayedulsayem/support-webp)
+See plugin's github repo [Support Webp](https://github.com/sayedulsayem/support-webp)
 
 Features:
 
@@ -38,5 +42,9 @@ Yes. You don't need to do anything else without activate the plugin.
 
 == Changelog ==
 
-= 1.0.0 =
-This version fixes a security related bug. Upgrade immediately.
+= 1.0.1 = 24-02-2021
+* Add: Legacy support for lower version of php.
+* Tweak: Optimize code quality for better performace.
+
+= 1.0.0 = 23-02-2021
+* Initial release.

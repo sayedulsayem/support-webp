@@ -8,12 +8,12 @@
  * @license           GPL-2.0-or-later
  *
  * @wordpress-plugin
- * Plugin Name:       Support Webp
+ * Plugin Name:       Support WebP
  * Plugin URI:        https://wordpress.org/plugins/support-webp/
  * Description:       This plugin will allow you to upload webp format image on wordpress media
- * Version:           1.0.0
- * Requires at least: 5.2
- * Requires PHP:      7.2
+ * Version:           1.0.1
+ * Requires at least: 5.7
+ * Requires PHP:      5.6
  * Author:            sayedulsayem
  * Author URI:        https://sayedulsayem.com
  * Text Domain:       support-webp
