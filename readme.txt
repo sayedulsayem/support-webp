@@ -4,7 +4,7 @@ Version: 1.0.1
 Author: sayedulsayem
 Author URI: https://sayedulsayem.com/
 Contributors: sayedulsayem
-Tags: Webp, Webp Support, Webp Upload, Webp Safe, Media
+Tags: Webp, Support, Upload, Safe, Image
 Requires at least: 4.7
 Tested up to: 5.6.2
 Requires PHP: 5.6
