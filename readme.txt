@@ -4,20 +4,22 @@ Version: 1.0.1
 Author: sayedulsayem
 Author URI: https://sayedulsayem.com/
 Contributors: sayedulsayem
-Tags: Webp, Support, Upload, Safe, Image
+Tags: Webp, Support, Media, Safe, Image
 Requires at least: 4.7
-Tested up to: 5.6.2
+Tested up to: 6.2.2
 Requires PHP: 5.6
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Nowadays, webp is an oft used image format preferred by modern applications that offer better-looking image compared to the popular format like JPEG, PNG or GIF. Along with being better looking, webp images are considerably smaller and make your website faster. The problem with WordPress is that it doesn't support webp image natively. This is where this plugin comes in; with this plugin, you can enable webp support in any WordPress site regardless of theme. 
+This plugin will help you to upload webp format image in WordPress media library regardless of the theme. That is, it works with every theme. 
 
 
 == Description ==
-This plugin will help you to upload webp format image in WordPress media library regardless of the theme. That is, it works with every theme. 
+
+Nowadays, webp is an oft used image format preferred by modern applications that offer better-looking image compared to the popular format like JPEG, PNG or GIF. Along with being better looking, webp images are considerably smaller and make your website faster. The problem with WordPress is that it doesn't support webp image natively. This is where this plugin comes in; with this plugin, you can enable webp support in any WordPress site regardless of theme. 
+
 
 See plugin's GitHub repo [Support Webp](https://github.com/sayedulsayem/support-webp)
 
