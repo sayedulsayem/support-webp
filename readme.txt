@@ -1,12 +1,12 @@
-=== Support WebP ===
+=== Support WebP - Upload webp files in wordpress without hassle===
 Plugin Name: Support WebP
 Version: 1.0.1
-Author: sayedulsayem
+Author: Sayedul Sayem
 Author URI: https://sayedulsayem.com/
 Contributors: sayedulsayem
 Tags: Webp, Support, Media, Safe, Image
 Requires at least: 4.7
-Tested up to: 6.2.2
+Tested up to: 6.4
 Requires PHP: 5.6
 Stable tag: 1.0.1
 License: GPLv2 or later
@@ -59,9 +59,9 @@ Yes. You don't need to do anything else other than activating the plugin.
 
 == Changelog ==
 
-= 1.0.1 (24-02-2021) =
+= 1.0.1 =
 * Add: Legacy support for lower version of php.
 * Tweak: Optimize code quality for better performace.
 
-= 1.0.0 (23-02-2021) =
+= 1.0.0 =
 * Initial release.
