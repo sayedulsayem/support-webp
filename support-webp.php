@@ -14,7 +14,7 @@
  * Version:           1.0.1
  * Requires at least: 4.7
  * Requires PHP:      5.6
- * Author:            sayedulsayem
+ * Author:            Sayedul Sayem
  * Author URI:        https://sayedulsayem.com
  * Text Domain:       support-webp
  * License:           GPL v2 or later
