@@ -6,7 +6,7 @@ Author URI: https://sayedulsayem.com/
 Contributors: sayedulsayem
 Tags: Webp, Support, Media, Safe, Image
 Requires at least: 4.7
-Tested up to: 6.4
+Tested up to: 6.7
 Requires PHP: 5.6
 Stable tag: 1.0.1
 License: GPLv2 or later
