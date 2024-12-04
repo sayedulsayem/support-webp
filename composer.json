@@ -1,0 +1,37 @@
+{
+	"name": "sayedulsayem/support-webp",
+	"description": "This plugin will allow you to upload webp format image on wordpress media",
+	"type": "wordpress-plugin",
+	"license": "GPL-2.0-or-later",
+	"scripts": {
+		"dev": [
+			"@composer install"
+		],
+		"build": [
+			"@composer --no-plugins --no-interaction install --no-scripts --no-dev"
+		]
+	},
+	"autoload": {
+		"psr-4": {
+			"SayedulSayem\\SupportWebp\\": "includes/"
+		}
+	},
+	"authors": [
+		{
+			"name": "Sayedul Sayem",
+			"email": "sayedulsayem@gmail.com"
+		}
+	],
+	"minimum-stability": "stable",
+	"require": {
+	},
+	"require-dev": {
+		"wp-coding-standards/wpcs": "^3.1",
+		"squizlabs/php_codesniffer": "^3.9"
+	},
+	"config": {
+		"allow-plugins": {
+			"dealerdirect/phpcodesniffer-composer-installer": true
+		}
+	}
+}
