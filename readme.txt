@@ -59,7 +59,7 @@ Yes. You don't need to do anything else other than activating the plugin.
 
 == Changelog ==
 
-= 1.0.1 =
+= 1.1.0 =
 * Add: .pot file for translation.
 * Fix: compatibility with WordPress 6.8.x
 
