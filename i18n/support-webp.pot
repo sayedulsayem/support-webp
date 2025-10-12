@@ -1,0 +1,40 @@
+# Copyright (C) 2025 Sayedul Sayem
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Support WebP 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/support-webp\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-10-12T23:37:53+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: support-webp\n"
+
+#. Plugin Name of the plugin
+#: support-webp.php
+msgid "Support WebP"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: support-webp.php
+msgid "https://wordpress.org/plugins/support-webp/"
+msgstr ""
+
+#. Description of the plugin
+#: support-webp.php
+msgid "This plugin will allow you to upload webp format image on wordpress media"
+msgstr ""
+
+#. Author of the plugin
+#: support-webp.php
+msgid "Sayedul Sayem"
+msgstr ""
+
+#. Author URI of the plugin
+#: support-webp.php
+msgid "https://sayedulsayem.com"
+msgstr ""
