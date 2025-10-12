@@ -37,7 +37,7 @@ final class Plugin {
 	 */
 	public function define_constant() {
 
-		define( 'SUPPORT_WEBP_VERSION', '1.0.1' );
+		define( 'SUPPORT_WEBP_VERSION', '1.1.0' );
 		define( 'SUPPORT_WEBP_PLUGIN_URL', trailingslashit( plugin_dir_url( __FILE__ ) ) );
 		define( 'SUPPORT_WEBP_PLUGIN_DIR', trailingslashit( plugin_dir_path( __FILE__ ) ) );
 	}
